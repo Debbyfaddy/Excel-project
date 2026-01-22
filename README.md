@@ -1,3 +1,4 @@
+<img width="1106" height="581" alt="adidas" src="https://github.com/user-attachments/assets/d3eaa574-3052-4898-8508-0c96ffabfc1c" />
 # Excel-project
 I recently completed an in-depth sales performance analysis, exploring key trends across products, regions, retailers, sales channels, and customer demand. The project reveals powerful insights into what drives peak revenue, which markets outperform others, and where strategic opportunities for growth exist. From identifying top selling products to understanding regional strengths and retailer performance, this analysis provides a clear roadmap for data-driven decision making.
 
@@ -32,8 +33,8 @@ POTENTIAL ANALYSIS/QUESTIONS
 POTENTIAL INSIGHTS
 
 1.  Determine the most purchased products and bundle them with related items to boost sales.
-2.  Identify top-performing cities by revenue and launch targeted marketing campaigns.
-3. Focus on high-demand product categories and optimize inventory to reduce stockouts.
+2.  Identify top performing cities by revenue and launch targeted marketing campaigns.
+3. Focus on high demand product categories and optimize inventory to reduce stockouts.
 4. Regularly monitor regional sales trends and adjust product offerings based on demand patterns
 5. Determine the best performine retailers
 6. Identify the sales method 
@@ -52,21 +53,21 @@ pie chart
 PRE ANALYSIS
 
 OBSERVATION
-The yearly sales performance was strong, with peak activity in mid-year and December, while March recorded the lowest sales. New York and Charleston led city performance, reflecting strong consumer demand in those areas. Men’s products especially street and athletic footwear dominated overall unit sales, showing significantly higher demand than women’s categories. In-store and outlet channels generated the bulk of revenue, with online sales contributing the least. Regionally, the West outperformed all other areas by a wide margin, while the Midwest recorded the lowest revenue. At the state level, New York, Florida, and California formed the top-performing tier, while a few states showed notably weak demand, indicating lower market penetration or brand presence. Overall, the data reveals strong geographic and product-specific demand patterns that can guide future marketing, inventory, and expansion strategies.
+The yearly sales performance was strong, with peak activity in mid-year and December, while March recorded the lowest sales. New York and Charleston led city performance, reflecting strong consumer demand in those areas. Men’s products especially street and athletic footwear dominated overall unit sales, showing significantly higher demand than women’s categories. In-store and outlet channels generated the bulk of revenue, with online sales contributing the least. Regionally, the West outperformed all other areas by a wide margin, while the Midwest recorded the lowest revenue. At the state level, New York, Florida, and California formed the top performing tier, while a few states showed notably weak demand, indicating lower market penetration or brand presence. Overall, the data reveals strong geographic and product-specific demand patterns that can guide future marketing, inventory, and expansion strategies.
 
 PRE INSIGHT
 
 Adidas can strengthen overall performance by boosting weaker months especially Q1 through targeted campaigns, seasonal launches, and promotional incentives, while maximizing revenue during peak periods like July, August, and December with major marketing pushes and special collections. City level strategies should reinforce strong markets such as New York and Charleston, while improving underperforming areas like Los Angeles through tailored promotions, endorsements, and localized product assortments. Product insights highlight the need to expand high-performing categories, especially street footwear, while improving weaker categories through better design, targeted marketing, and strategic bundling.
 
-Sales channel performance suggests investing more in digital marketing and online exclusives to grow the online channel, while enhancing in-store experiences and expanding outlet presence in value-driven regions. Regional analysis indicates that the strategies used in the West Adidas’ strongest region—should be replicated across weaker markets, especially the Midwest and South, while leveraging strong regions like the Northeast and Southeast for product launches. At the state level, Adidas should maintain strong investment in top markets such as New York, Florida, and California, while scaling targeted promotions and retail expansion in mid-tier states and selectively investing in lower-performing states where growth potential exists.
+Sales channel performance suggests investing more in digital marketing and online exclusives to grow the online channel, while enhancing in-store experiences and expanding outlet presence in value driven regions. Regional analysis indicates that the strategies used in the West Adidas’ strongest region should be replicated across weaker markets, especially the Midwest and South, while leveraging strong regions like the Northeast and Southeast for product launches. At the state level, Adidas should maintain strong investment in top markets such as New York, Florida, and California, while scaling targeted promotions and retail expansion in mid-tier states and selectively investing in lower-performing states where growth potential exists.
 
 GENERAL OBSERVATIONS 
 
-Adidas should maximize peak months like July and August with strong marketing, product launches, and better stock planning, while boosting weak months—especially March—through targeted promotions. Strengthening the West region and improving weaker regions through localized strategies will enhance regional performance. Since online is the strongest revenue channel, continued investment in e-commerce and digital marketing is essential. Outlet strategies that work well in January and in the West should be replicated across weaker regions.
+Adidas should maximize peak months like July and August with strong marketing, product launches, and better stock planning, while boosting weak months especially March through targeted promotions. Strengthening the West region and improving weaker regions through localized strategies will enhance regional performance. Since online is the strongest revenue channel, continued investment in e-commerce and digital marketing is essential. Outlet strategies that work well in January and in the West should be replicated across weaker regions.
 
 RECOMMENDATIONS
 
-Adidas should deepen retailer partnerships by supporting high performers like West Gear and Foot Locker with exclusive releases, while improving underperforming partners like Walmart through better assortments or revised strategies. Expanding instore presence in regions where key retailers are absent will improve coverage. Finally, Adidas should grow top-performing product categories—especially men’s street footwear—and align new product drops with peak demand months to maximize sales.
+Adidas should deepen retailer partnerships by supporting high performers like West Gear and Foot Locker with exclusive releases, while improving underperforming partners like Walmart through better assortments or revised strategies. Expanding instore presence in regions where key retailers are absent will improve coverage. Finally, Adidas should grow top-performing product categories especially men’s street footwear—and align new product drops with peak demand months to maximize sales.
 
 CONCLUSION
 
